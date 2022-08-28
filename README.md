@@ -1,18 +1,17 @@
 # Olá, Eu sou Eduardo Henrique 👋 
 
-## Eu sou um Engenheiro de Materiais !!
 - 💼 Atualmente trabalhando com gestão de projetos na FARMACE (https://www.farmace.com.br/)
 - 🌱 Estudando Ciência de Dados
 - 🥅 Metas para 2023: Torna-se Cientista de Dados
 - ❤️ I love writing TypeScript, and building fun experiments on type-level
 
-### Entre em contato comigo:
+## Entre em contato comigo:
 <div> 
   <a href = "mailto:eng.eduardohealli@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in//eduardo-henrique-8b3025198/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-### Liguagens de programação e ferramentas:
+## Liguagens de programação e ferramentas:
 </div>
 <div style="display: inline_block"><br>
   <img align="left" alt="Python" width="120px" src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" style="padding-right:10px;">
@@ -29,7 +28,8 @@
 <br />
 <br />
 
-### Estatísticas do Github
+
+## Estatísticas do Github
 | <a href="https://github.com/eduardohealli/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=eduardohealli&show_icons=true&include_all_commits=true&hide_border=true&title_color=03EF62&text_color=F8F7F9&icon_color=03EF62&bg_color=7B4B94" alt="Anurag's github stats" /></a> | <a href="https://github.com/eduardohealli/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardohealli&layout=compact&hide_border=true&title_color=03EF62&text_color=F8F7F9&icon_color=03EF62&bg_color=7B4B94" /></a> |
 | ------------- | ------------- |
 ---
