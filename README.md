@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in//eduardo-henrique-8b3025198/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-## Liguagens de programação e ferramentas:
+## Linguagens de programação e ferramentas:
 </div>
 <div style="display: inline_block"><br>
   <img align="left" alt="Python" width="90px" src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" style="padding-right:10px;">
