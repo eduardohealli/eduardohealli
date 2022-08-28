@@ -14,16 +14,16 @@
 ## Liguagens de programação e ferramentas:
 </div>
 <div style="display: inline_block"><br>
-  <img align="left" alt="Python" width="100px" src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" style="padding-right:10px;">
+  <img align="left" alt="Python" width="90px" src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" style="padding-right:10px;">
   <img align="left" alt="Pandas" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" style="padding-right:10px;">
   <img align="left" alt="Numpy" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" style="padding-right:10px;">
-  <img align="left" alt="Scipy" width="30x" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" style="padding-right:10px;">
-  <img align="left" alt="Plotly" width="80px" src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-ar21.svg" style="padding-right:10px;">
+  <img align="left" alt="Scipy" width="25x" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" style="padding-right:10px;">
+  <img align="left" alt="Plotly" width="70px" src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-ar21.svg" style="padding-right:10px;">
   <img align="left" alt="Seaborn" width="30px" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" style="padding-right:10px;">
-  <img align="left" alt="Matplotlib" width="120px" src="https://matplotlib.org/stable/_static/logo2.svg" style="padding-right:10px;">
-  <img align="left" alt="Scikit-learn" height="25px" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="padding
+  <img align="left" alt="Matplotlib" width="100px" src="https://matplotlib.org/stable/_static/logo2.svg" style="padding-right:10px;">
+  <img align="left" alt="Scikit-learn" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="padding
   right:10px;">
-  <img align="left" alt="Pingouin" height="35px" width="100px" src="https://pingouin-stats.org/_images/logo_pingouin.png" style="padding-right:10px;">
+  <img align="left" alt="Pingouin" width="80px" src="https://pingouin-stats.org/_images/logo_pingouin.png" style="padding-right:10px;">
 </div>
 <br />
 <br />
