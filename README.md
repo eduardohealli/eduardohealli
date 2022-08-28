@@ -3,7 +3,7 @@
 - 💼 Atualmente trabalhando com gestão de projetos na FARMACE (https://www.farmace.com.br/)
 - 🌱 Estudando Ciência de Dados
 - 🥅 Metas para 2023: Torna-se Cientista de Dados
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+- ❤️ Apaixonado por estatística
 
 ## Entre em contato comigo:
 <div> 
@@ -32,4 +32,8 @@
 ## Estatísticas do Github
 | <a href="https://github.com/eduardohealli/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=eduardohealli&show_icons=true&include_all_commits=true&hide_border=true&title_color=03EF62&text_color=F8F7F9&icon_color=03EF62&bg_color=7B4B94" alt="Anurag's github stats" /></a> | <a href="https://github.com/eduardohealli/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardohealli&layout=compact&hide_border=true&title_color=03EF62&text_color=F8F7F9&icon_color=03EF62&bg_color=7B4B94" /></a> |
 | ------------- | ------------- |
----
+
+## Snake dos commits
+  ![Snake animation](https://github.com/eduardohealli/eduardohealli/blob/output/github-contribution-grid-snake.svg)
+  
+----
