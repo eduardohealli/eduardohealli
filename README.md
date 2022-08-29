@@ -30,10 +30,14 @@
 
 
 ## Estatísticas do Github
-| <a href="https://github.com/eduardohealli/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=eduardohealli&show_icons=true&include_all_commits=true&hide_border=true&title_color=03EF62&text_color=F8F7F9&icon_color=03EF62&bg_color=7B4B94" alt="Anurag's github stats" /></a> | <a href="https://github.com/eduardohealli/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardohealli&layout=compact&hide_border=true&title_color=03EF62&text_color=F8F7F9&icon_color=03EF62&bg_color=7B4B94" /></a> |
-| ------------- | ------------- |
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eduardohealli&title_color=03EF62&text_color=F8F7F9&icon_color=03EF62&bg_color=7B4B94&include_all_commits=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardohealli&title_color=03EF62&text_color=F8F7F9&icon_color=03EF62&bg_color=7B4B94&layout=default" />
+</a>
 
-## Snake dos commits
+##
   ![Snake animation](https://github.com/eduardohealli/eduardohealli/blob/output/github-contribution-grid-snake.svg)
   
 ----
