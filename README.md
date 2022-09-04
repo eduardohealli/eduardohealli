@@ -7,8 +7,8 @@
 
 ## Entre em contato comigo:
 <div> 
-  <a href = "mailto:eng.eduardohealli@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in//eduardo-henrique-8b3025198/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:eng.eduardohealli@gmail.com"><img src="https://img.shields.io/badge/-Gmail-7B4B94?style=for-the-badge&logo=gmail&logoColor=03EF62" target="_blank"></a>
+  <a href="https://www.linkedin.com/in//eduardo-henrique-8b3025198/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-7B4B94?style=for-the-badge&logo=linkedin&logoColor=03EF62" target="_blank"></a>
 </div>
 
 ## Linguagens de programação e ferramentas:
